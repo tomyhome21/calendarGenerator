@@ -127,6 +127,3 @@ if __name__ == '__main__':
 
 祝日情報は [Nager.at Public Holidays API](https://date.nager.at/) を利用して取得しています。インターネット接続が必要です。
 
------
-
-このREADMEの内容で、Git公開の準備は完了です。他にサポートが必要な点はありますか？
